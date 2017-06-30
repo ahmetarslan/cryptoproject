@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## We are still working on our project.
 
 You can use the [editor on GitHub](https://github.com/ahmetarslan/cryptoproject/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
