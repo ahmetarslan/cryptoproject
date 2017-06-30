@@ -1,4 +1,4 @@
-## We are still working on our project.
+## We are working on a cryptocurrency project that will help companies to launch their Initial Coin Offerings.
 
 You can use the [editor on GitHub](https://github.com/ahmetarslan/cryptoproject/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
